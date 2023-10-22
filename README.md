@@ -25,4 +25,4 @@ matplotlib.org. (n.d.). Creating multiple subplots using plt.subplots — Matplo
 seaborn.pydata.org. (n.d.). seaborn.heatmap — seaborn 0.11.2 documentation. [online] Available at: https://seaborn.pydata.org/generated/seaborn.heatmap.html#seaborn.heatmap.
 
 pandas.pydata.org. (n.d.). Styling — pandas 1.1.2 documentation. [online] Available at: https://pandas.pydata.org/pandas-docs/stable/user_guide/style.html.
-![image](https://github.com/EsalaKa/Project_1/assets/139238427/a5960c2a-5e9b-4650-9078-1e201b517af3)
+
